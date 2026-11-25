@@ -1,0 +1,9 @@
+,antes,después,diferencia
+bronze/usage_events,43171,43171,0
+bronze/customers_orgs,80,80,0
+bronze/billing_monthly,240,240,0
+silver/usage_events,43134,43134,0
+silver/quarantine/usage_events,37,37,0
+gold/org_daily_usage_by_service,11050,11050,0
+event_id distintos en silver,43134,43134,0
+cassandra/org_daily_usage_by_service,11050,11050,0

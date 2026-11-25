@@ -1,0 +1,15 @@
+momento,etapa,tabla,leidas,corruptas,duplicadas,escritas,kb,ruta,tardios_cuarentena,cuarentena,marcadas,dias,segundos,tablas,diferencias
+2026-11-25 17:32:26,3 bronze,customers_orgs,80.0,0.0,0.0,80.0,7.2,/content/lake/bronze/customers_orgs,,,,,,,
+2026-11-25 17:32:27,3 bronze,users,800.0,0.0,0.0,800.0,23.7,/content/lake/bronze/users,,,,,,,
+2026-11-25 17:32:28,3 bronze,resources,400.0,0.0,0.0,400.0,12.1,/content/lake/bronze/resources,,,,,,,
+2026-11-25 17:32:29,3 bronze,billing_monthly,240.0,0.0,0.0,240.0,21.5,/content/lake/bronze/billing_monthly,,,,,,,
+2026-11-25 17:36:04,3 bronze,usage_events,43200.0,0.0,0.0,43171.0,5775.0,/content/lake/bronze/usage_events,29.0,,,,,,
+2026-11-25 17:36:05,4 silver,customers_orgs,80.0,,,80.0,7.2,/content/lake/silver/customers_orgs,,0.0,1.0,,,,
+2026-11-25 17:36:07,4 silver,resources,400.0,,,400.0,13.5,/content/lake/silver/resources,,0.0,,,,,
+2026-11-25 17:36:54,4 silver,usage_events,43171.0,,,43134.0,4473.8,/content/lake/silver/usage_events,,37.0,9352.0,,,,
+2026-11-25 17:37:02,5 gold,org_daily_usage_by_service,43134.0,,,11050.0,702.5,/content/lake/gold/org_daily_usage_by_service,,,,60.0,,,
+2026-11-25 17:37:16,6 serving,org_daily_usage_by_service,11050.0,,,11050.0,,,,,,,9.0,,
+2026-11-25 17:37:16,6 serving,org_top_services_14d,480.0,,,480.0,,,,,,,9.0,,
+2026-11-25 17:37:29,3 bronze,customers_orgs,80.0,0.0,0.0,80.0,7.2,/content/lake/bronze/customers_orgs,,,,,,,
+2026-11-25 17:37:30,3 bronze,billing_monthly,240.0,0.0,0.0,240.0,21.5,/content/lake/bronze/billing_monthly,,,,,,,
+2026-11-25 17:37:45,7 pruebas,idempotencia,,,,,,,,,,,,8.0,0.0

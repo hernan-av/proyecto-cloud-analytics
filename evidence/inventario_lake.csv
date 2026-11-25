@@ -1,0 +1,16 @@
+zona,tabla,ruta,archivos_parquet,kb
+bronze,billing_monthly,/content/lake/bronze/billing_monthly,3,21.5
+bronze,customers_orgs,/content/lake/bronze/customers_orgs,1,7.2
+bronze,resources,/content/lake/bronze/resources,1,12.1
+bronze,usage_events,/content/lake/bronze/usage_events,541,5775.0
+bronze,users,/content/lake/bronze/users,1,23.7
+silver,customers_orgs,/content/lake/silver/customers_orgs,1,7.2
+silver,ref_cost_thresholds,/content/lake/silver/ref_cost_thresholds,1,2.2
+silver,resources,/content/lake/silver/resources,1,13.5
+silver,usage_events,/content/lake/silver/usage_events,151,4473.8
+quarantine,customers_orgs,/content/lake/silver/quarantine/customers_orgs,1,1.9
+quarantine,resources,/content/lake/silver/quarantine/resources,1,1.8
+quarantine,usage_events,/content/lake/silver/quarantine/usage_events,26,286.7
+quarantine,usage_events_late,/content/lake/silver/quarantine/usage_events_late,29,185.4
+gold,org_daily_usage_by_service,/content/lake/gold/org_daily_usage_by_service,60,702.5
+gold,org_top_services_14d,/content/lake/gold/org_top_services_14d,1,7.8
