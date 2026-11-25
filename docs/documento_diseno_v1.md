@@ -1,4 +1,7 @@
-﻿# Cloud Provider Analytics · Documento de diseño v1
+> [!NOTE]
+> Este documento corresponde a la primera entrega y se mantiene como estaba. Los cambios de la segunda entrega están en el [registro de decisiones](../DECISIONS.md) (D11 cerrada; nuevas D15 a D19) y en el [diagrama de arquitectura v2](diagramas/arquitectura_v2_vertical.png).
+ 
+ # Cloud Provider Analytics · Documento de diseño v1
 
 | | |
 |---|---|
